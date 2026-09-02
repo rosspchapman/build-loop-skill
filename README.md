@@ -4,7 +4,7 @@ A [Claude Skill](https://www.anthropic.com/news/skills) that runs the Build Loop
 
 > Frame the problem. Build something testable. Validate with real people. Decide.
 
-Learn more at [thebuildloop.dev](https://thebuildloop.dev).
+Learn more at [thebuildloop.com](https://thebuildloop.com).
 
 ## Install
 
