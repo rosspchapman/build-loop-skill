@@ -1,12 +1,13 @@
 ---
 name: build-loop
-version: 1.2.1
 description: "The Build Loop is a structured operating model for making high-impact product and innovation decisions. Use this skill whenever someone wants to frame a problem, validate a product idea, run a build loop, check whether a decision is worth running a loop on, create a hypothesis canvas, or make a ship/improve/pivot/stop decision. Also trigger when someone mentions 'Frame', 'Build Loop', 'Qualifier', 'problem framing', 'hypothesis testing', 'product validation', 'should we build this', or 'Frame Canvas'. This skill guides users through a Qualify step, then four modes: Frame, Create, Validate, and Decide."
+metadata:
+  version: "1.2.2"
 ---
 
 # The Build Loop
 
-*Version 1.2.1*
+*Version 1.2.2*
 
 A way of getting to a decision you can defend. Four modes: **Frame → Create → Validate → Decide**, with a short Qualify step before the loop starts to check it's worth running at all. Run it in two days with a team in the room, or over a fortnight on your own.
 
